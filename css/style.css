@@ -4,7 +4,7 @@ body{
 }
 /*your CSS code here*/
 .intro{
-    background-color:#2f5a78;
+    background-color:#d64a4a;
     color:white;
     padding-left: 16px;
     padding-bottom: 8px;
@@ -17,7 +17,7 @@ img{
 }
 .icon{
     float: left;
-    color: #2f5a78;
+    color: #d64a4a;
 }
 .prof{
     font-size: 20px;
@@ -42,7 +42,7 @@ img{
 }
 .date{
     font-size: 16px;
-    color:#2f5a78;
+    color:#d64a4a;
     font-weight:bold ;
 }
 .jobtitle{
@@ -80,7 +80,7 @@ img{
 .skills ul li .skill_prog span{
     position: absolute;
     height: 100%;
-    background: #2F5A78;
+    background: #d64a4a;
     padding-left: 50px;
     
 }
